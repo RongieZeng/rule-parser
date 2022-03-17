@@ -1,0 +1,8 @@
+/.idea
+/Test-Console/.idea
+/Test-Console/target
+/Test-Console/*.iml
+/rule-parser-core/.idea
+/rule-parser-core/*.iml
+/rule-parser-core/target
+/*.iml
